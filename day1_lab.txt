@@ -5,3 +5,14 @@ Experiment-1
   (2)Running python script in IDLE
   (3)Running python script in command prompt
 (b) Wright a python program to purposfully riase indentatin error and correct it .
+
+CODE :- 
+a= input("Enter the no :")
+b = input("Enter the no :")
+c = a + b
+print("Addition is :",c)
+
+OUT-PUT.
+=>Enter the no :4
+Enter the no :5
+Addition is :45  (becaus the input is on string format . [doing the string concatination] )
