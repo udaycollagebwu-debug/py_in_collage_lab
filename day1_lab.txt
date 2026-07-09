@@ -1,0 +1,7 @@
+PYTHON FOR MACHINE LEARNING LAB
+Experiment-1
+  (a) Demonstrate about basics of python programing
+  (1)Running python Interpreter
+  (2)Running python script in IDLE
+  (3)Running python script in command prompt
+(b) Wright a python program to purposfully riase indentatin error and correct it .
