@@ -1,0 +1,5 @@
+assigmnt 2 :- 
+1. wriht a program to find the area of a triangle.
+2. write a python program to revers a given string using string slicing method.   
+3. write a python program to check if a string is palindrome or not .
+4. wriet a python program to count vowels ,consonant ,digits and spacial characters in a string .
